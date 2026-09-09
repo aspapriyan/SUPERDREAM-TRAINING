@@ -62,3 +62,23 @@ public class Main{
         }       
     }
 }
+
+Array deletion:
+
+public class Main {
+    public static void main(String[] args) {
+
+        int[] arr = {10, 20, 30, 40, 50};
+
+        int pos = 2;   // index to delete
+
+        for (int i = pos; i < arr.length - 1; i++) {
+            arr[i] = arr[i + 1];
+        }
+
+        // Print array after deletion
+        for (int i = 0; i < arr.length - 1; i++) {
+            System.out.println(arr[i]);
+        }
+    }
+}
