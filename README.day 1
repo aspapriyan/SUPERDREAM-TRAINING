@@ -2,3 +2,12 @@ Array is storing multiple values in same datatype
 Array // int[] arr = {10,20,30}
 Array index start from 0;
 
+Method 1 // int[] arr = {10,20,30,40};
+Method 2 // int[] arr = new int[4];
+                  arr[0] = 10;
+                  arr[1] = 20;
+                  arr[2] = 30;
+                  arr[3] = 40;
+
+
+
