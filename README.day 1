@@ -17,3 +17,7 @@ Array traversal: Accessing each element one by one using for loop
 
 Array insertion: We must move elements to right and inserting elements should be done from right side that is from backwards until the insertion postion is reached
 
+Array deletion: We must delete elements from right and first we have to move and then remove last
+
+for(int i=pos;i<arr.length --1;i++){
+     arr[i]=[i+1];
