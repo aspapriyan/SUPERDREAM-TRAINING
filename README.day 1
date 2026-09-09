@@ -1,1 +1,4 @@
-Array is 
+Array is storing multiple values in same datatype
+Array // int[] arr = {10,20,30}
+Array index start from 0;
+
