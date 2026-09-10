@@ -34,3 +34,15 @@ LOGIC:
 for(int i=0;i<arr.length;i++)
 if(arr[i] == key)
 // print
+
+Binary search: Binary search is faster than linear search and it must be strictly in sorted order
+
+We use 3 variables:
+
+low 
+high
+mid
+
+low = 0;
+high = arr.length -1;
+mid = (low+high) / 2;
