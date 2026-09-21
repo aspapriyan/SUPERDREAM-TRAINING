@@ -166,3 +166,22 @@ class Main {
         System.out.println(power(2, 3));
     }
 }
+
+
+Sum of Digits
+
+Example:
+
+1234 → 1 + 2 + 3 + 4 = 10
+class Main {
+    static int sum(int n) {
+        if (n == 0)
+            return 0;
+
+        return n % 10 + sum(n / 10);
+    }
+
+    public static void main(String[] args) {
+        System.out.println(sum(1234));
+    }
+}
