@@ -27,3 +27,8 @@ Too many recursive calls can cause StackOverflowError in Java.
 Sometimes slower than iteration.
 Can be difficult to debug.
 Incorrect or missing base cases can cause infinite recursion.
+
+
+Backtracking
+
+Backtracking is an algorithmic technique that builds a solution step by step and removes or undoes a choice when that choice does not lead to a valid solution.
