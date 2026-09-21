@@ -11,10 +11,19 @@ static void fun(int n) {
 }
 
 
-4. Advantages of Recursion:
+Advantages of Recursion:
 
 Makes some problems easier to understand.
 Reduces the amount of code for certain problems.
 Useful for tree and graph problems.
 Useful for divide-and-conquer algorithms.
 Essential for many backtracking problems.
+
+
+Disadvantages of Recursion:
+
+Uses additional stack memory.
+Too many recursive calls can cause StackOverflowError in Java.
+Sometimes slower than iteration.
+Can be difficult to debug.
+Incorrect or missing base cases can cause infinite recursion.
