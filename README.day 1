@@ -46,3 +46,23 @@ mid
 low = 0;
 high = arr.length -1;
 mid = (low+high) / 2;
+
+
+What is Recursion?
+
+Recursion means a method calling itself.
+
+Basic example
+class Main {
+    static void fun(int n) {
+        if (n == 0)
+            return;
+
+        System.out.println(n);
+        fun(n - 1);
+    }
+
+    public static void main(String[] args) {
+        fun(5);
+    }
+}
