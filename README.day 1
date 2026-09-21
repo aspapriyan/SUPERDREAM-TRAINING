@@ -86,3 +86,20 @@ fun(n - 1);
 Easy memory
 Base Case       → STOP
 Recursive Call  → CONTINUE
+
+
+
+Print N to 1
+class Main {
+    static void fun(int n) {
+        if (n == 0)
+            return;
+
+        System.out.println(n);
+        fun(n - 1);
+    }
+
+    public static void main(String[] args) {
+        fun(5);
+    }
+}
