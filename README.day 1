@@ -66,3 +66,23 @@ class Main {
         fun(5);
     }
 }
+
+
+Two Important Parts
+
+Every recursion program mainly has 2 parts.
+
+① Base Case
+
+Stops the recursion.
+
+if (n == 0)
+    return;
+② Recursive Call
+
+Method calls itself.
+
+fun(n - 1);
+Easy memory
+Base Case       → STOP
+Recursive Call  → CONTINUE
