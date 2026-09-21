@@ -103,3 +103,28 @@ class Main {
         fun(5);
     }
 }
+
+
+
+Factorial
+
+Formula:
+
+5! = 5 × 4 × 3 × 2 × 1
+
+Recursive formula:
+
+fact(n) = n × fact(n-1)
+Java
+class Main {
+    static int fact(int n) {
+        if (n == 0)
+            return 1;
+
+        return n * fact(n - 1);
+    }
+
+    public static void main(String[] args) {
+        System.out.println(fact(5));
+    }
+}
