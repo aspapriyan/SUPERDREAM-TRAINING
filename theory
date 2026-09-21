@@ -9,3 +9,12 @@ static void fun(int n) {
     }
     fun(n - 1);
 }
+
+
+4. Advantages of Recursion:
+
+Makes some problems easier to understand.
+Reduces the amount of code for certain problems.
+Useful for tree and graph problems.
+Useful for divide-and-conquer algorithms.
+Essential for many backtracking problems.
