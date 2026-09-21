@@ -1,1 +1,11 @@
+1. Recursion
 
+Recursion is a programming technique in which a method calls itself repeatedly to solve a problem by breaking it into smaller subproblems.
+
+Basic Structure
+static void fun(int n) {
+    if (condition) {
+        return;
+    }
+    fun(n - 1);
+}
