@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0115-distinct-subsequences) |
 ## Matrix
 |  |
 | ------- |
@@ -116,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
