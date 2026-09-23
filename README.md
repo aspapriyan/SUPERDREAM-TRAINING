@@ -94,8 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0087-scramble-string) |
 ## Matrix
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0085-maximal-rectangle) |
+## String
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
