@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
@@ -103,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0087-scramble-string) |
+| [0093-restore-ip-addresses](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
