@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0127-word-ladder) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0127-word-ladder) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0127-word-ladder) |
 ## DP on Trees
 |  |
 | ------- |
@@ -144,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
