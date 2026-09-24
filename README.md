@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0115-distinct-subsequences) |
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0124-binary-tree-maximum-path-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
