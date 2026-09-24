@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0140-word-break-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0140-word-break-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0140-word-break-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0140-word-break-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0140-word-break-ii) |
 ## DP on Trees
 |  |
 | ------- |
@@ -158,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0137-single-number-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
