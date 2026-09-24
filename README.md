@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0137-single-number-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0135-candy) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
