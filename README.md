@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0149-max-points-on-a-line) |
+| [0164-maximum-gap](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0164-maximum-gap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -203,8 +204,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0164-maximum-gap) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
