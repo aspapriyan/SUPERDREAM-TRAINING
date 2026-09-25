@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0149-max-points-on-a-line) |
+| [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0140-word-break-ii) |
+| [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
 ## DP on Trees
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
 ## Trie
 |  |
 | ------- |
@@ -230,4 +233,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0183-customers-who-never-order](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0185-department-top-three-salaries) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
