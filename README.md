@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0149-max-points-on-a-line) |
+| [0172-factorial-trailing-zeroes](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0172-factorial-trailing-zeroes) |
 ## Geometry
 |  |
 | ------- |
