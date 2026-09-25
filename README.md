@@ -229,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0183-customers-who-never-order) |
+| [0185-department-top-three-salaries](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
