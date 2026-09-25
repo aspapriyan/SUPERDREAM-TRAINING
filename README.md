@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -196,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0149-max-points-on-a-line) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
