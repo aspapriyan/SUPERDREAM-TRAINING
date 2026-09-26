@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0198-house-robber) |
 ## Divide and Conquer
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0189-rotate-array) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0189-rotate-array) |
 ## Geometry
 |  |
 | ------- |
