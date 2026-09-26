@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0198-house-robber) |
+| [0274-h-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0274-h-index) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0164-maximum-gap) |
+| [0274-h-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0274-h-index) |
 ## Merge Sort
 |  |
 | ------- |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
