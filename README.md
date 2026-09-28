@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0319-bulb-switcher) |
 ## Geometry
 |  |
 | ------- |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0211-design-add-and-search-words-data-structure) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
