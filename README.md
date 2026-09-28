@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
+| [0330-patching-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0330-patching-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0330-patching-array) |
 ## Bit Manipulation
 |  |
 | ------- |
