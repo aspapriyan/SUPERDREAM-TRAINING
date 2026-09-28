@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
+| [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
+| [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0275-h-index-ii) |
+| [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
+| [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -343,4 +347,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
