@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0212-word-search-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0212-word-search-ii) |
 | [0274-h-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0275-h-index-ii) |
 ## Divide and Conquer
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0212-word-search-ii) |
 ## String
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0212-word-search-ii) |
 ## DP on Trees
 |  |
 | ------- |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
