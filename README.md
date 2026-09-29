@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0208-implement-trie-prefix-tree) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0212-word-search-ii) |
 | [0394-decode-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## DP on Trees
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Rolling Hash
 |  |
 | ------- |
