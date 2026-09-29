@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0334-increasing-triplet-subsequence) |
+| [0393-utf-8-validation](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0393-utf-8-validation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0393-utf-8-validation](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0393-utf-8-validation) |
 ## Trie
 |  |
 | ------- |
