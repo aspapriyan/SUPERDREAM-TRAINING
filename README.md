@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0275-h-index-ii) |
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
+| [0400-nth-digit](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0400-nth-digit) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0319-bulb-switcher) |
+| [0400-nth-digit](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0400-nth-digit) |
 ## Geometry
 |  |
 | ------- |
