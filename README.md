@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0212-word-search-ii) |
+| [0401-binary-watch](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0401-binary-watch) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0393-utf-8-validation](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0393-utf-8-validation) |
+| [0401-binary-watch](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0401-binary-watch) |
 ## Trie
 |  |
 | ------- |
