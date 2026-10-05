@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0232-implement-queue-using-stacks) |
 | [0321-create-maximum-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0402-remove-k-digits) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0232-implement-queue-using-stacks) |
 ## Brainteaser
 |  |
 | ------- |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0232-implement-queue-using-stacks) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
