@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0402-remove-k-digits) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0402-remove-k-digits) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0394-decode-string) |
 ## Math
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0319-bulb-switcher) |
 | [0398-random-pick-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0398-random-pick-index) |
