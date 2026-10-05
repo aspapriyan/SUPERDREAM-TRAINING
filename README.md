@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0220-contains-duplicate-iii) |
+| [0228-summary-ranges](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0275-h-index-ii) |
 | [0321-create-maximum-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0321-create-maximum-number) |
