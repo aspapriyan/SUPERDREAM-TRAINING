@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0216-combination-sum-iii) |
+| [0218-the-skyline-problem](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0218-the-skyline-problem) |
 | [0274-h-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0275-h-index-ii) |
 | [0321-create-maximum-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0321-create-maximum-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0218-the-skyline-problem) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0218-the-skyline-problem) |
 | [0274-h-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
 ## Merge Sort
@@ -385,14 +388,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
 ## Treap
 |  |
@@ -426,4 +432,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
