@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0304-range-sum-query-2d-immutable) |
 | [0321-create-maximum-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0212-word-search-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0304-range-sum-query-2d-immutable) |
 ## String
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0232-implement-queue-using-stacks) |
+| [0304-range-sum-query-2d-immutable](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0304-range-sum-query-2d-immutable) |
 ## Brainteaser
 |  |
 | ------- |
@@ -478,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
