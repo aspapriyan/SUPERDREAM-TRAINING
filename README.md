@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0310-minimum-height-trees](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0310-minimum-height-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0322-coin-change) |
 ## Array
 |  |
@@ -394,11 +396,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0310-minimum-height-trees) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0310-minimum-height-trees) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
