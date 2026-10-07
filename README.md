@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0313-super-ugly-number) |
 | [0321-create-maximum-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0322-coin-change) |
 ## Matrix
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0319-bulb-switcher) |
 | [0398-random-pick-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0400-nth-digit) |
