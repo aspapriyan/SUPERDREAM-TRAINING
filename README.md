@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0300-longest-increasing-subsequence) |
 | [0321-create-maximum-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0275-h-index-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
 | [0400-nth-digit](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0400-nth-digit) |
 ## Hash Table
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0322-coin-change) |
 ## Matrix
 |  |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0334-increasing-triplet-subsequence) |
 ## Reservoir Sampling
 |  |
