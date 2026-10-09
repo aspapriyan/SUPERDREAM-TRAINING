@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0402-remove-k-digits) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Tree
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0402-remove-k-digits) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## DP on Trees
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0402-remove-k-digits) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -496,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0304-range-sum-query-2d-immutable) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
