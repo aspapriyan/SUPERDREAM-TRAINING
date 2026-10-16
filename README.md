@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
 | [0393-utf-8-validation](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0393-utf-8-validation) |
 ## Divide and Conquer
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0218-the-skyline-problem) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Binary Search Tree
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0398-random-pick-index) |
 ## Monotonic Stack
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -439,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -489,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0218-the-skyline-problem) |
+| [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
 ## Sweep Line
 |  |
 | ------- |
