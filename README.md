@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0393-utf-8-validation](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0393-utf-8-validation) |
 ## Divide and Conquer
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0400-nth-digit) |
 ## Hash Table
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0398-random-pick-index) |
 ## Monotonic Stack
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0189-rotate-array) |
 | [0321-create-maximum-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Merge Sort
 |  |
 | ------- |
