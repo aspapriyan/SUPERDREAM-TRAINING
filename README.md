@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0343-integer-break) |
 ## Matrix
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0343-integer-break) |
 | [0398-random-pick-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0400-nth-digit) |
 ## Geometry
