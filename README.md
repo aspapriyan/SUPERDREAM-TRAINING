@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0400-nth-digit](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0400-nth-digit) |
 ## Hash Table
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0398-random-pick-index) |
 ## Monotonic Stack
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0304-range-sum-query-2d-immutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Brainteaser
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0220-contains-duplicate-iii) |
 | [0327-count-of-range-sum](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Treap
 |  |
 | ------- |
@@ -523,4 +527,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
