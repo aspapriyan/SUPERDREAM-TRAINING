@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
+| [0355-design-twitter](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0355-design-twitter) |
 ## Stack
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0355-design-twitter](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0355-design-twitter) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0398-random-pick-index) |
 ## Monotonic Stack
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0304-range-sum-query-2d-immutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0355-design-twitter](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0355-design-twitter) |
 ## Brainteaser
 |  |
 | ------- |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0355-design-twitter) |
 ## Sweep Line
 |  |
 | ------- |
