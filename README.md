@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0342-power-of-four](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0342-power-of-four) |
 | [0393-utf-8-validation](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0393-utf-8-validation) |
 | [0401-binary-watch](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0401-binary-watch) |
 ## Trie
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0224-basic-calculator) |
+| [0342-power-of-four](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0394-decode-string) |
 ## Math
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0342-power-of-four) |
 | [0398-random-pick-index](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0400-nth-digit) |
 ## Geometry
