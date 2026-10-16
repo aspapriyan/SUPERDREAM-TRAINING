@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0227-basic-calculator-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0301-remove-invalid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0402-remove-k-digits) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0189-rotate-array) |
 | [0321-create-maximum-number](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0321-create-maximum-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aspapriyan/SUPERDREAM-TRAINING/tree/master/0345-reverse-vowels-of-a-string) |
 ## Bidirectional Search
 |  |
 | ------- |
